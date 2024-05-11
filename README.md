@@ -3,6 +3,8 @@ Agriculture Data Analysis Project
 Overview
 1.
 This project aims to analyze agricultural production data across different countries, focusing on various factors such as production volume, acreage, yield, and production per person. 
+
+
 2.
 The dataset used for analysis is stored in a CSV file containing information about countries, continents, production in tons, production per person in kilograms, acreage in hectares, and yield in kilograms per hectare.
 
