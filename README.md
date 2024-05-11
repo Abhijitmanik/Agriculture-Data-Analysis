@@ -45,5 +45,4 @@ Future Work
 
 conclusion
 
-This project underscores the importance of data-driven approaches in understanding and addressing challenges in the agricultural sector. By continuing to analyze and interpret agricultural data, we can contribute to the development of sustainable farming practices, improve food security, and support global agricultural initiatives.
-
+This project underscores the importance of data-driven approaches in understanding and addressing challenges in the agricultural sector. 
