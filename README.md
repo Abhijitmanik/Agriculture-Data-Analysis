@@ -43,8 +43,7 @@ Future Work
 
 3.Enhancing data visualization techniques to communicate findings more effectively.
 
+conclusion
 
-Contributors
-
-Abhijit Manik
+This project underscores the importance of data-driven approaches in understanding and addressing challenges in the agricultural sector. By continuing to analyze and interpret agricultural data, we can contribute to the development of sustainable farming practices, improve food security, and support global agricultural initiatives.
 
